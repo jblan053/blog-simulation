@@ -1,5 +1,3 @@
-Instructions can be found below, and what the project is about. Currently missing the node_modules file for Grunt.
-
 # Responsive Images: Project Part 1 #
 
 ## Your Goals: ##
